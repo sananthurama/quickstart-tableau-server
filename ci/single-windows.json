@@ -4,16 +4,12 @@
         "ParameterValue": "$[taskcat_genaz_2]"
     },
     {
+        "ParameterKey": "AcceptEULA",
+        "ParameterValue": "yes"
+    },
+    {
         "ParameterKey": "AMIOS",
         "ParameterValue": "Windows"
-    },
-    {
-        "ParameterKey": "AcceptEULA",
-        "ParameterValue": "Yes"
-    },
-    {
-        "ParameterKey": "AMIOS",
-        "ParameterValue": "CentOS-7-HVM"
     },
     {
         "ParameterKey": "InstanceType",
